@@ -70,6 +70,8 @@ p {
     margin-right: 20px;
     text-transform: uppercase;
     transition: 0.5s;
+    cursor: pointer;
+
 }
 
 .btn-play:hover {
@@ -90,6 +92,8 @@ p {
     text-decoration: none;
     margin-right: 20px;
     transition: 0.5s;
+    cursor: pointer;
+
 }
 
 .btn-watch:hover {
@@ -153,4 +157,54 @@ p {
     color: #fff;
     text-transform: uppercase;
 
+}
+.explore-container {
+    width: 1600px;
+    margin: auto;
+}
+.explore-content {
+    margin-top: 100px;
+    justify-content: center;
+    margin-bottom: 100px;
+    text-align: center;
+}
+.explore-content h1 {
+    font-size: 40px;
+    color: #fff;
+    text-transform: uppercase;
+    font-family: "Russo One", sans-serif;
+}
+.explore-content h2 {
+    font-size: 32px;
+    color: #fff;
+    text-transform: uppercase;
+    font-family: "Russo One", sans-serif;
+}
+.explore-content p {
+    font-size: 18px;
+    color: #fff;
+    text-transform: uppercase;
+    width: 20%;
+    margin: auto;
+
+}
+.explore-now{
+    background-color: #FF6F00;
+    margin-top: 20px;
+    border-radius: 30px;
+    padding: 10px 30px;
+    font-size: 20px;
+    color: white;
+    font-family: "DM Sans", sans-serif;
+    text-decoration: none;
+    margin-right: 20px;
+    text-transform: uppercase;
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+.explore-now:hover {
+    background-color: transparent;
+    border: 1px solid #FF6F00;
+    color: #FF6F00;
 }
