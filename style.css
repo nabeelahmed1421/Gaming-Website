@@ -97,27 +97,32 @@ p {
     border: 0;
     color: #000;
 }
-.games-container{
+
+.games-container {
     width: 1600px;
     margin: auto;
 }
-.games-content{
+
+.games-content {
     margin-top: 100px;
     margin-bottom: 100px;
     display: flex;
     gap: 250px;
     align-items: center;
 }
-.games-content-right{
+
+.games-content-right {
     width: 50%;
 }
-.games-content-right h1{
+
+.games-content-right h1 {
     font-size: 40px;
     color: #fff;
     text-transform: uppercase;
     font-family: "Russo One", sans-serif;
 }
-.games-content-right p{
+
+.games-content-right p {
     font-size: 18px;
     color: #fff;
     text-transform: uppercase;
