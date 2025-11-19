@@ -216,3 +216,171 @@ p {
     border: 1px solid #FF6F00;
     color: #FF6F00;
 }
+
+.each-game-container {
+    width: 1600px;
+    margin: auto;
+}
+
+.each-game-content {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    display: flex;
+    gap: 150px;
+    align-items: center;
+}
+
+.each-game-content-left h1 {
+    font-size: 40px;
+    color: #fff;
+    text-transform: uppercase;
+    font-family: "Russo One", sans-serif;
+}
+
+.each-game-content-left p {
+    font-size: 18px;
+    color: #fff;
+    text-transform: uppercase;
+    width: 50%;
+}
+
+.each-game-content-left-btn {
+    display: grid;
+    gap: 10px;
+    margin-top: 30px;
+}
+
+.each-game-content-left-btn button {
+    width: 400px;
+    background-color: #FF6F00;
+    border-radius: 30px;
+    padding: 10px 30px;
+    font-size: 20px;
+    border: 0;
+    color: white;
+    font-family: "DM Sans", sans-serif;
+    text-decoration: none;
+    margin-right: 20px;
+    text-transform: uppercase;
+    transition: 0.5s;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+.each-game-content-left-btn-1 {
+    width: 400px;
+    background-color: #FF6F00;
+    border-radius: 30px;
+    padding: 10px 30px;
+    font-size: 20px;
+    border: 0;
+    color: white;
+    font-family: "DM Sans", sans-serif;
+    text-decoration: none;
+    margin-right: 20px;
+    text-transform: uppercase;
+    transition: 0.5s;
+    cursor: pointer;
+    margin-left: 50px;
+}
+
+.climb-ladder-claim-crown-container {
+    width: 1600px;
+    margin: auto;
+    margin-bottom: 100px;
+}
+
+.climb-ladder-claim-crown-content h1 {
+    font-size: 40px;
+    color: #fff;
+    text-transform: uppercase;
+    font-family: "Russo One", sans-serif;
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
+.climb-ladder-claim-crown-content-buttom {
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    gap: 100px;
+}
+
+.climb-ladder-claim-crown-content-buttom-card {
+    border: 1px solid #FF6F00;
+    border-radius: 10px;
+    padding: 30px;
+    width: 245px;
+    height: 208px;
+    align-content: center;
+}
+
+.climb-ladder-claim-crown-content-buttom-card h1 {
+    font-size: 24px;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 400;
+    font-family: "DM Sans", sans-serif;
+
+}
+
+.upcoming-container {
+    width: 1600px;
+    margin: auto;
+    margin-bottom: 100px;
+}
+
+.upcoming-content {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    display: flex;
+    gap: 150px;
+    align-items: center;
+    background-image: linear-gradient(90deg, #151516 0%, #090A0B 100%);
+    padding: 50px;
+    box-shadow: 0 0 25px 5px rgba(255, 111, 0, 0.25);
+}
+
+.upcoming-content-right h2 {
+    font-size: 24px;
+    color: #FF6F00;
+    text-transform: uppercase;
+    font-family: "Russo One", sans-serif;
+    margin-top: 10px;
+
+}
+
+.upcoming-content-right h1 {
+    font-size: 40px;
+    color: #fff;
+    text-transform: uppercase;
+    font-family: "Russo One", sans-serif;
+    font-weight: 500;
+    margin-top: 10px;
+
+}
+
+.upcoming-content-right h3 {
+    font-size: 18px;
+    color: #fff;
+    text-transform: uppercase;
+    font-family: "DM Sans", sans-serif;
+    margin-top: 10px;
+
+}
+
+.register-btn {
+    margin-top: 10px;
+    background-color: #FF6F00;
+    border-radius: 30px;
+    padding: 10px 30px;
+    font-size: 20px;
+    color: white;
+    font-family: "DM Sans", sans-serif;
+    text-decoration: none;
+    margin-right: 20px;
+    text-transform: uppercase;
+    transition: 0.5s;
+    cursor: pointer;
+}
