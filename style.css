@@ -149,37 +149,44 @@ p {
 
 
 }
-.gamers-worldwide-content-1 img{
+
+.gamers-worldwide-content-1 img {
     margin-left: 200px;
 }
-.gamers-worldwide-content-1 p{
+
+.gamers-worldwide-content-1 p {
     font-size: 20px;
     color: #fff;
     text-transform: uppercase;
 
 }
+
 .explore-container {
     width: 1600px;
     margin: auto;
 }
+
 .explore-content {
     margin-top: 100px;
     justify-content: center;
     margin-bottom: 100px;
     text-align: center;
 }
+
 .explore-content h1 {
     font-size: 40px;
     color: #fff;
     text-transform: uppercase;
     font-family: "Russo One", sans-serif;
 }
+
 .explore-content h2 {
     font-size: 32px;
     color: #fff;
     text-transform: uppercase;
     font-family: "Russo One", sans-serif;
 }
+
 .explore-content p {
     font-size: 18px;
     color: #fff;
@@ -188,7 +195,8 @@ p {
     margin: auto;
 
 }
-.explore-now{
+
+.explore-now {
     background-color: #FF6F00;
     margin-top: 20px;
     border-radius: 30px;
