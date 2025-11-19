@@ -127,3 +127,30 @@ p {
     color: #fff;
     text-transform: uppercase;
 }
+
+.gamers-worldwide-container {
+    width: 1600px;
+    margin: auto;
+}
+
+.gamers-worldwide-content {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-image: linear-gradient(90deg, #151516 0%, #090A0B 100%);
+    padding: 50px;
+    box-shadow: 0 0 25px 5px rgba(255, 111, 0, 0.25);
+
+
+}
+.gamers-worldwide-content-1 img{
+    margin-left: 200px;
+}
+.gamers-worldwide-content-1 p{
+    font-size: 20px;
+    color: #fff;
+    text-transform: uppercase;
+
+}
