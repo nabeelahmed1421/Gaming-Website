@@ -473,3 +473,30 @@ p {
     cursor: pointer;
 
 }
+
+.footer-container {
+    width: 1600px;
+    margin: auto;
+    margin-bottom: 50px;
+}
+
+.footer-content {
+    text-align: center;
+
+}
+
+.footer-content p {
+    font-size: 18px;
+    color: #fff;
+    text-transform: uppercase;
+    font-family: "DM Sans", sans-serif;
+    margin-top: 20px;
+}
+
+.footer-content h1 {
+    font-size: 32px;
+    color: #fff;
+    text-transform: uppercase;
+    font-family: "DM Sans", sans-serif;
+    margin-top: 20px;
+}
